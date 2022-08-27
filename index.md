@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Grace's First CS193 Homework
+
+- I like the Teachers for CS193 because they seem really nice.
+- No midterms or finals for the class.
+- The class is not meant to stress student's out.
+- There is partial credit for late work.
+- The PSOs are nice if I need help.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
